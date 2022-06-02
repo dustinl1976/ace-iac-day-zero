@@ -36,7 +36,7 @@ variable "aws_spoke_instance_size" {
 }
 
 variable "aws_spoke1_region" {
-  default = "us-east-2"
+  default = "us-west-1"
 }
 
 variable "aws_spoke1_name" {
